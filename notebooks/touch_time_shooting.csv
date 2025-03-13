@@ -1,0 +1,42 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,SORT_ORDER,GP,G,TOUCH_TIME_RANGE,FGA_FREQUENCY,FGM,FGA,FG_PCT,EFG_PCT,FG2A_FREQUENCY,FG2M,FG2A,FG2_PCT,FG3A_FREQUENCY,FG3M,FG3A,FG3_PCT,Player
+1627780,"Payton II, Gary",1,50,49,Touch < 2 Seconds,0.884,119,206,0.578,0.626,0.584,99,136,0.728,0.3,20,70,0.286,Gary Payton II
+1627780,"Payton II, Gary",2,50,19,Touch 2-6 Seconds,0.107,15,25,0.6,0.6,0.103,15,24,0.625,0.004,0,1,0.0,Gary Payton II
+1627780,"Payton II, Gary",3,50,1,Touch 6+ Seconds,0.009,0,2,0.0,0.0,0.009,0,2,0.0,0.0,0,0,,Gary Payton II
+1630228,"Kuminga, Jonathan",1,32,32,Touch < 2 Seconds,0.448,100,189,0.529,0.622,0.232,65,98,0.663,0.216,35,91,0.385,Jonathan Kuminga
+1630228,"Kuminga, Jonathan",2,32,32,Touch 2-6 Seconds,0.386,66,163,0.405,0.42,0.334,61,141,0.433,0.052,5,22,0.227,Jonathan Kuminga
+1630228,"Kuminga, Jonathan",3,32,27,Touch 6+ Seconds,0.166,27,70,0.386,0.386,0.159,27,67,0.403,0.007,0,3,0.0,Jonathan Kuminga
+1641764,"Podziemski, Brandin",1,50,47,Touch < 2 Seconds,0.488,90,218,0.413,0.523,0.159,42,71,0.592,0.329,48,147,0.327,Brandin Podziemski
+1641764,"Podziemski, Brandin",2,50,44,Touch 2-6 Seconds,0.367,69,164,0.421,0.463,0.264,55,118,0.466,0.103,14,46,0.304,Brandin Podziemski
+1641764,"Podziemski, Brandin",3,50,32,Touch 6+ Seconds,0.145,32,65,0.492,0.538,0.101,26,45,0.578,0.045,6,20,0.3,Brandin Podziemski
+1630541,"Moody, Moses",1,55,55,Touch < 2 Seconds,0.698,119,282,0.422,0.567,0.141,37,57,0.649,0.557,82,225,0.364,Moses Moody
+1630541,"Moody, Moses",2,55,45,Touch 2-6 Seconds,0.255,57,103,0.553,0.602,0.218,47,88,0.534,0.037,10,15,0.667,Moses Moody
+1630541,"Moody, Moses",3,55,16,Touch 6+ Seconds,0.047,6,19,0.316,0.316,0.045,6,18,0.333,0.002,0,1,0.0,Moses Moody
+1626172,"Looney, Kevon",1,57,52,Touch < 2 Seconds,0.786,98,184,0.533,0.533,0.778,98,182,0.538,0.009,0,2,0.0,Kevon Looney
+1626172,"Looney, Kevon",2,57,30,Touch 2-6 Seconds,0.201,20,47,0.426,0.426,0.197,20,46,0.435,0.004,0,1,0.0,Kevon Looney
+1626172,"Looney, Kevon",3,57,3,Touch 6+ Seconds,0.013,1,3,0.333,0.333,0.013,1,3,0.333,0.0,0,0,,Kevon Looney
+1627741,"Hield, Buddy",1,63,63,Touch < 2 Seconds,0.72,187,455,0.411,0.57,0.117,42,74,0.568,0.603,145,381,0.381,Buddy Hield
+1627741,"Hield, Buddy",2,63,60,Touch 2-6 Seconds,0.259,71,164,0.433,0.476,0.185,57,117,0.487,0.074,14,47,0.298,Buddy Hield
+1627741,"Hield, Buddy",3,63,11,Touch 6+ Seconds,0.021,4,13,0.308,0.308,0.009,4,6,0.667,0.011,0,7,0.0,Buddy Hield
+202710,"Butler III, Jimmy",1,12,12,Touch < 2 Seconds,0.5,32,66,0.485,0.492,0.386,31,51,0.608,0.114,1,15,0.067,Jimmy Butler III
+202710,"Butler III, Jimmy",2,12,12,Touch 2-6 Seconds,0.379,24,50,0.48,0.5,0.341,22,45,0.489,0.038,2,5,0.4,Jimmy Butler III
+202710,"Butler III, Jimmy",3,12,8,Touch 6+ Seconds,0.121,3,16,0.188,0.188,0.114,3,15,0.2,0.008,0,1,0.0,Jimmy Butler III
+1630611,"Santos, Gui",1,38,32,Touch < 2 Seconds,0.862,44,100,0.44,0.54,0.31,24,36,0.667,0.552,20,64,0.313,Gui Santos
+1630611,"Santos, Gui",2,38,10,Touch 2-6 Seconds,0.129,6,15,0.4,0.433,0.095,5,11,0.455,0.034,1,4,0.25,Gui Santos
+1630611,"Santos, Gui",3,38,1,Touch 6+ Seconds,0.009,1,1,1.0,1.0,0.009,1,1,1.0,0.0,0,0,,Gui Santos
+1642366,"Post, Quinten",1,25,24,Touch < 2 Seconds,0.88,71,147,0.483,0.633,0.293,27,49,0.551,0.587,44,98,0.449,Quinten Post
+1642366,"Post, Quinten",2,25,14,Touch 2-6 Seconds,0.114,7,19,0.368,0.368,0.108,7,18,0.389,0.006,0,1,0.0,Quinten Post
+1642366,"Post, Quinten",3,25,1,Touch 6+ Seconds,0.006,0,1,0.0,0.0,0.006,0,1,0.0,0.0,0,0,,Quinten Post
+203110,"Green, Draymond",1,50,49,Touch < 2 Seconds,0.813,127,295,0.431,0.519,0.377,75,137,0.547,0.435,52,158,0.329,Draymond Green
+203110,"Green, Draymond",2,50,32,Touch 2-6 Seconds,0.168,25,61,0.41,0.426,0.152,23,55,0.418,0.017,2,6,0.333,Draymond Green
+203110,"Green, Draymond",3,50,6,Touch 6+ Seconds,0.019,3,7,0.429,0.429,0.019,3,7,0.429,0.0,0,0,,Draymond Green
+201939,"Curry, Stephen",1,54,54,Touch < 2 Seconds,0.456,211,444,0.475,0.649,0.097,57,94,0.606,0.359,154,350,0.44,Stephen Curry
+201939,"Curry, Stephen",2,54,54,Touch 2-6 Seconds,0.292,135,284,0.475,0.563,0.158,85,154,0.552,0.133,50,130,0.385,Stephen Curry
+201939,"Curry, Stephen",3,54,51,Touch 6+ Seconds,0.253,92,246,0.374,0.459,0.119,50,116,0.431,0.133,42,130,0.323,Stephen Curry
+1631218,"Jackson-Davis, Trayce",1,50,46,Touch < 2 Seconds,0.796,133,219,0.607,0.607,0.796,133,219,0.607,0.0,0,0,,Trayce Jackson-Davis
+1631218,"Jackson-Davis, Trayce",2,50,34,Touch 2-6 Seconds,0.189,23,52,0.442,0.442,0.185,23,51,0.451,0.004,0,1,0.0,Trayce Jackson-Davis
+1631218,"Jackson-Davis, Trayce",3,50,4,Touch 6+ Seconds,0.015,1,4,0.25,0.25,0.015,1,4,0.25,0.0,0,0,,Trayce Jackson-Davis
+1642050,"Rowe, Jackson",1,5,5,Touch < 2 Seconds,0.867,6,13,0.462,0.538,0.267,4,4,1.0,0.6,2,9,0.222,Jackson Rowe
+1642050,"Rowe, Jackson",2,5,2,Touch 2-6 Seconds,0.133,0,2,0.0,0.0,0.133,0,2,0.0,0.0,0,0,,Jackson Rowe
+1630311,"Spencer, Pat",1,29,16,Touch < 2 Seconds,0.381,13,32,0.406,0.438,0.25,11,21,0.524,0.131,2,11,0.182,Pat Spencer
+1630311,"Spencer, Pat",2,29,20,Touch 2-6 Seconds,0.5,17,42,0.405,0.405,0.464,17,39,0.436,0.036,0,3,0.0,Pat Spencer
+1630311,"Spencer, Pat",3,29,7,Touch 6+ Seconds,0.119,3,10,0.3,0.3,0.083,3,7,0.429,0.036,0,3,0.0,Pat Spencer

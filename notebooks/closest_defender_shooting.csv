@@ -1,0 +1,53 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,SORT_ORDER,GP,G,SHOT_TYPE,FGA_FREQUENCY,FGM,FGA,FG_PCT,EFG_PCT,FG2A_FREQUENCY,FG2M,FG2A,FG2_PCT,FG3A_FREQUENCY,FG3M,FG3A,FG3_PCT,Player
+1627780,"Payton II, Gary",1,50,39,Catch and Shoot,0.3,21,70,0.3,0.443,0.004,1,1,1.0,0.296,20,69,0.29,Gary Payton II
+1627780,"Payton II, Gary",2,50,2,Pull Ups,0.009,0,2,0.0,0.0,0.0,0,0,,0.009,0,2,0.0,Gary Payton II
+1627780,"Payton II, Gary",3,50,48,Less than 10 ft,0.691,113,161,0.702,0.702,0.691,113,161,0.702,0.0,0,0,,Gary Payton II
+1630228,"Kuminga, Jonathan",1,32,30,Catch and Shoot,0.206,34,87,0.391,0.586,0.007,0,3,0.0,0.199,34,84,0.405,Jonathan Kuminga
+1630228,"Kuminga, Jonathan",2,32,31,Pull Ups,0.232,26,98,0.265,0.291,0.166,21,70,0.3,0.066,5,28,0.179,Jonathan Kuminga
+1630228,"Kuminga, Jonathan",3,32,32,Less than 10 ft,0.547,132,231,0.571,0.571,0.547,132,231,0.571,0.0,0,0,,Jonathan Kuminga
+1630228,"Kuminga, Jonathan",4,32,6,Other,0.014,1,6,0.167,0.25,0.005,0,2,0.0,0.009,1,4,0.25,Jonathan Kuminga
+1641764,"Podziemski, Brandin",1,50,43,Catch and Shoot,0.291,44,130,0.338,0.504,0.007,1,3,0.333,0.284,43,127,0.339,Brandin Podziemski
+1641764,"Podziemski, Brandin",2,50,43,Pull Ups,0.353,58,158,0.367,0.434,0.179,37,80,0.463,0.174,21,78,0.269,Brandin Podziemski
+1641764,"Podziemski, Brandin",3,50,48,Less than 10 ft,0.338,85,151,0.563,0.563,0.338,85,151,0.563,0.0,0,0,,Brandin Podziemski
+1641764,"Podziemski, Brandin",4,50,7,Other,0.018,4,8,0.5,0.75,0.0,0,0,,0.018,4,8,0.5,Brandin Podziemski
+1630541,"Moody, Moses",1,55,55,Catch and Shoot,0.542,80,219,0.365,0.548,0.012,0,5,0.0,0.53,80,214,0.374,Moses Moody
+1630541,"Moody, Moses",2,55,36,Pull Ups,0.131,21,53,0.396,0.5,0.072,10,29,0.345,0.059,11,24,0.458,Moses Moody
+1630541,"Moody, Moses",3,55,47,Less than 10 ft,0.319,80,129,0.62,0.62,0.319,80,129,0.62,0.0,0,0,,Moses Moody
+1630541,"Moody, Moses",4,55,3,Other,0.007,1,3,0.333,0.5,0.0,0,0,,0.007,1,3,0.333,Moses Moody
+1626172,"Looney, Kevon",1,57,21,Catch and Shoot,0.103,7,24,0.292,0.292,0.094,7,22,0.318,0.009,0,2,0.0,Kevon Looney
+1626172,"Looney, Kevon",2,57,10,Pull Ups,0.043,3,10,0.3,0.3,0.038,3,9,0.333,0.004,0,1,0.0,Kevon Looney
+1626172,"Looney, Kevon",3,57,54,Less than 10 ft,0.85,109,199,0.548,0.548,0.85,109,199,0.548,0.0,0,0,,Kevon Looney
+1626172,"Looney, Kevon",4,57,1,Other,0.004,0,1,0.0,0.0,0.004,0,1,0.0,0.0,0,0,,Kevon Looney
+1627741,"Hield, Buddy",1,63,63,Catch and Shoot,0.498,125,315,0.397,0.589,0.014,4,9,0.444,0.484,121,306,0.395,Buddy Hield
+1627741,"Hield, Buddy",2,63,57,Pull Ups,0.278,53,176,0.301,0.406,0.078,16,49,0.327,0.201,37,127,0.291,Buddy Hield
+1627741,"Hield, Buddy",3,63,57,Less than 10 ft,0.22,83,139,0.597,0.597,0.22,83,139,0.597,0.0,0,0,,Buddy Hield
+1627741,"Hield, Buddy",4,63,2,Other,0.003,1,2,0.5,0.75,0.0,0,0,,0.003,1,2,0.5,Buddy Hield
+202710,"Butler III, Jimmy",1,12,9,Catch and Shoot,0.136,2,18,0.111,0.139,0.023,1,3,0.333,0.114,1,15,0.067,Jimmy Butler III
+202710,"Butler III, Jimmy",2,12,12,Pull Ups,0.205,11,27,0.407,0.426,0.174,10,23,0.435,0.03,1,4,0.25,Jimmy Butler III
+202710,"Butler III, Jimmy",3,12,12,Less than 10 ft,0.636,44,84,0.524,0.524,0.636,44,84,0.524,0.0,0,0,,Jimmy Butler III
+202710,"Butler III, Jimmy",4,12,3,Other,0.023,2,3,0.667,0.833,0.008,1,1,1.0,0.015,1,2,0.5,Jimmy Butler III
+1630611,"Santos, Gui",1,38,29,Catch and Shoot,0.552,20,64,0.313,0.469,0.009,0,1,0.0,0.543,20,63,0.317,Gui Santos
+1630611,"Santos, Gui",2,38,6,Pull Ups,0.052,1,6,0.167,0.25,0.009,0,1,0.0,0.043,1,5,0.2,Gui Santos
+1630611,"Santos, Gui",3,38,24,Less than 10 ft,0.397,30,46,0.652,0.652,0.397,30,46,0.652,0.0,0,0,,Gui Santos
+1642366,"Post, Quinten",1,25,24,Catch and Shoot,0.623,47,104,0.452,0.659,0.042,4,7,0.571,0.581,43,97,0.443,Quinten Post
+1642366,"Post, Quinten",2,25,2,Pull Ups,0.012,2,2,1.0,1.25,0.006,1,1,1.0,0.006,1,1,1.0,Quinten Post
+1642366,"Post, Quinten",3,25,21,Less than 10 ft,0.359,29,60,0.483,0.483,0.359,29,60,0.483,0.0,0,0,,Quinten Post
+1642366,"Post, Quinten",4,25,1,Other,0.006,0,1,0.0,0.0,0.0,0,0,,0.006,0,1,0.0,Quinten Post
+203110,"Green, Draymond",1,50,48,Catch and Shoot,0.471,57,171,0.333,0.48,0.041,7,15,0.467,0.43,50,156,0.321,Draymond Green
+203110,"Green, Draymond",2,50,15,Pull Ups,0.069,10,25,0.4,0.48,0.05,6,18,0.333,0.019,4,7,0.571,Draymond Green
+203110,"Green, Draymond",3,50,49,Less than 10 ft,0.457,88,166,0.53,0.53,0.457,88,166,0.53,0.0,0,0,,Draymond Green
+203110,"Green, Draymond",4,50,1,Other,0.003,0,1,0.0,0.0,0.0,0,0,,0.003,0,1,0.0,Draymond Green
+201939,"Curry, Stephen",1,54,53,Catch and Shoot,0.308,128,300,0.427,0.628,0.011,7,11,0.636,0.297,121,289,0.419,Stephen Curry
+201939,"Curry, Stephen",2,54,54,Pull Ups,0.436,178,425,0.419,0.564,0.11,55,107,0.514,0.326,123,318,0.387,Stephen Curry
+201939,"Curry, Stephen",3,54,53,Less than 10 ft,0.252,130,245,0.531,0.531,0.252,130,245,0.531,0.0,0,0,,Stephen Curry
+201939,"Curry, Stephen",4,54,4,Other,0.004,2,4,0.5,0.75,0.001,0,1,0.0,0.003,2,3,0.667,Stephen Curry
+1631218,"Jackson-Davis, Trayce",1,50,2,Catch and Shoot,0.007,0,2,0.0,0.0,0.007,0,2,0.0,0.0,0,0,,Trayce Jackson-Davis
+1631218,"Jackson-Davis, Trayce",2,50,1,Pull Ups,0.004,0,1,0.0,0.0,0.004,0,1,0.0,0.0,0,0,,Trayce Jackson-Davis
+1631218,"Jackson-Davis, Trayce",3,50,47,Less than 10 ft,0.985,157,271,0.579,0.579,0.985,157,271,0.579,0.0,0,0,,Trayce Jackson-Davis
+1631218,"Jackson-Davis, Trayce",4,50,1,Other,0.004,0,1,0.0,0.0,0.0,0,0,,0.004,0,1,0.0,Trayce Jackson-Davis
+1642050,"Rowe, Jackson",1,5,4,Catch and Shoot,0.533,2,8,0.25,0.375,0.0,0,0,,0.533,2,8,0.25,Jackson Rowe
+1642050,"Rowe, Jackson",2,5,1,Pull Ups,0.067,0,1,0.0,0.0,0.0,0,0,,0.067,0,1,0.0,Jackson Rowe
+1642050,"Rowe, Jackson",3,5,4,Less than 10 ft,0.4,4,6,0.667,0.667,0.4,4,6,0.667,0.0,0,0,,Jackson Rowe
+1630311,"Spencer, Pat",1,29,8,Catch and Shoot,0.143,2,12,0.167,0.25,0.012,0,1,0.0,0.131,2,11,0.182,Pat Spencer
+1630311,"Spencer, Pat",2,29,9,Pull Ups,0.214,8,18,0.444,0.444,0.143,8,12,0.667,0.071,0,6,0.0,Pat Spencer
+1630311,"Spencer, Pat",3,29,21,Less than 10 ft,0.643,23,54,0.426,0.426,0.643,23,54,0.426,0.0,0,0,,Pat Spencer
